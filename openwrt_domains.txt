@@ -675,3 +675,9 @@ online-instagram.com
 onlineinstagram.com
 web-instagram.net
 wwwinstagram.com
+
+cursor-cdn.com
+cursor.com
+cursor.sh
+cursorapi.com
+
