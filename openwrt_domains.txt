@@ -9,7 +9,6 @@ whatsapp.net
 whatsapp.org
 whatsapp.tv
 whatsappbrand.com
-
 aboutfacebook.com
 accessfacebookfromschool.com
 acebooik.com
@@ -404,8 +403,6 @@ redkix.com
 workplace.com
 workplaceusecases.com
 fbcdn-a.akamaihd.net
-
-
 ggpht.cn
 ggpht.com
 googlevideo.com
@@ -581,7 +578,6 @@ youtubekids.com
 youtubemobilesupport.com
 yt.be
 ytimg.com
-
 cdn-telegram.org
 comments.app
 contest.com
@@ -602,7 +598,6 @@ tg.dev
 ton.org
 tx.me
 usercontent.dev
-
 achat-followers-instagram.com
 acheter-followers-instagram.com
 acheterdesfollowersinstagram.com
@@ -675,7 +670,6 @@ online-instagram.com
 onlineinstagram.com
 web-instagram.net
 wwwinstagram.com
-
 cursor-cdn.com
 cursor.com
 cursor.sh
