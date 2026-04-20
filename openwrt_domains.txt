@@ -675,3 +675,8 @@ cursor.com
 cursor.sh
 cursorapi.com
 
+// Sentry
+sentry.io
+sentry-cdn.com
+
+
