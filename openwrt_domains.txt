@@ -671,6 +671,8 @@ online-instagram.com
 onlineinstagram.com
 web-instagram.net
 wwwinstagram.com
+
+// Cursor AI
 cursor-cdn.com
 cursor.com
 cursor.sh
@@ -680,4 +682,16 @@ cursorapi.com
 sentry.io
 sentry-cdn.com
 
+
+// F-Droid
+f-dro1d.org
+f-droid.com
+f-droid.org
+fdroid.org
+cloudflare.f-droid.org
+mirror.hyd.albony.in
+mirror.del2.albony.in
+fdroid.tetaneutral.net
+mirror.cyberbits.eu
+mirror.ossplanet.net
 
