@@ -695,3 +695,5 @@ fdroid.tetaneutral.net
 mirror.cyberbits.eu
 mirror.ossplanet.net
 
+// Services
+raindrop.io
